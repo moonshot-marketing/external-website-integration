@@ -4,22 +4,22 @@
 
 1)
 
-![Example](../images/create-external-1.png)
+![Example](/images/create-external-1.png)
 
 2)
 
-![Example](../images/create-external-2.png)
+![Example](/images/create-external-2.png)
 
 * create a provider in creator (and pixel)
 * get pixel and send it to the advertiser
 
-![Example](../images/create-provider-pixel.png)
+![Example](/images/create-provider-pixel.png)
 
 * create a pixel(s) in the network side (e.g traficjunky)
 
 * integrate network pixel in creator
 
-![Example](../images/integrate-network-pixel-in-creator.png)
+![Example](/images/integrate-network-pixel-in-creator.png)
 
 
 * use redirect link api in the network side to redirect to the advertiser landing page
