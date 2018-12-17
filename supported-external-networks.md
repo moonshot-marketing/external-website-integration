@@ -7,9 +7,7 @@
 | EPOM               |                      |                                                                                                                                        | use this string in the url: `-EPOM`
 | Outbrain           |      outbrain        | [{{ob_click_id}}](https://www.outbrain.com/help/advertisers/server-app-integrations/#postback)                                         |
 | Taboola            |      taboola         | [{click_id}](https://help.taboola.com/hc/en-us/articles/115006850567-How-to-Track-Conversions-Using-Server-to-Server-Integration-S2S-) |
-| Taboola            |      taboola         |                                                                                                                                        |
 
-{conversion}
 
 # External Source Id
 
@@ -20,8 +18,6 @@
 | EPOM               |                  pixel id               |
 | Outbrain           |                 event name              |
 | Taboola            |                 event name              |
-| Taboola            |                 event name              |
-| Taboola            |                 event name              |
-| Taboola            |                 event name              |
+
 
 
