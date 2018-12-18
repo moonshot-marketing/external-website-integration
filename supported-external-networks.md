@@ -19,5 +19,5 @@
 | Outbrain           |                 event name              |            saleoutbrain                 |
 | Taboola            |                 event name              |            examplename                  |
 | BING               |                 pixel id                |            B011RPQW                     |
-| Google             |                 pixel id                |            927-311-8892                 |
+| Google             |                 account id              |            927-311-8892                 |
 
