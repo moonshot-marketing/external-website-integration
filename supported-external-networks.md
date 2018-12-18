@@ -12,12 +12,12 @@
 # External Source Id
 
 
-| Network Name       |                                         |
-|--------------------|-----------------------------------------|
-| Traffic Junky      |        {{member_id}}&#124;{{a}}         |
-| EPOM               |                  pixel id               |
-| Outbrain           |                 event name              |
-| Taboola            |                 event name              |
-
-
+| Network Name       |                                         |  Example                                |
+|--------------------|-----------------------------------------|-----------------------------------------|
+| Traffic Junky      |        {{member_id}}&#124;{{a}}         |  1000989181|1000160561                  |
+| EPOM               |                  pixel id               |  b079fe295df09f1b25ccd091498e57c8-20-0  |
+| Outbrain           |                 event name              |            saleoutbrain                 |
+| Taboola            |                 event name              |            examplename                  |
+| BING               |                 pixel id                |            B011RPQW                     |
+| Google             |                 pixel id                |            927-311-8892                 |
 
