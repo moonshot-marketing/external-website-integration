@@ -12,7 +12,7 @@
 # External Source Id
 
 
-| Network Name       |                                         |  Example                                |
+| Network Name       |                    Value                |  Example                                |
 |--------------------|-----------------------------------------|-----------------------------------------|
 | Traffic Junky      |        {{member_id}}&#124;{{a}}         |  1000989181|1000160561                  |
 | EPOM               |                  pixel id               |  b079fe295df09f1b25ccd091498e57c8-20-0  |
